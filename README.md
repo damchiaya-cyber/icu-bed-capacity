@@ -7,14 +7,13 @@ shows which hospitals run above a chosen occupancy threshold, and when.
 
 ## Dashboard Overview
 
-![Dashboard Overview](c:\Users\kh\Documents\icu-bed-capacity-streamlit.png)
+![Dashboard Overview](C:\icu-bed-capacity\screenshots\screenshots/icu-bed-capacity-streamlit.png)
 
 
 ### Over Capacity Facilities
-![Over Capacity Facilities](c:\Users\kh\Documents\icu-bed-capacity-streamlit2.png)
-
+![Over Capacity Facilities](C:\icu-bed-capacity\screenshots\icu-bed-capacity-streamlit2.png)
 ### Ocupance Trends
-![Ocupance Trends](icu-bed-capacity-streamlit3.jpg)
+![Ocupance Trends](C:\icu-bed-capacity\screenshots\icu-bed-capacity-streamlit3.jpg)
 
 ## What it demonstrates
 
