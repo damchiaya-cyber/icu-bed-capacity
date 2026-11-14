@@ -1,0 +1,5 @@
+=== DATA QUALITY REPORT (pre-clean) ===
+duplicate_rows: 13
+missing_by_column: {'belegte_betten_icu': 40}
+negative_values: 5
+occupied_exceeds_capacity: 24

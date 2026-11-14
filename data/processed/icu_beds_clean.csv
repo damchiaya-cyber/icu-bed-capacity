@@ -1,0 +1,1351 @@
+date,hospital_name,bundesland,bettenzahl_icu,belegte_betten_icu,occupied_was_corrected,occupied_was_imputed
+2026-08-16,Klinikum Muenster Nord,Nordrhein-Westfalen,32,16,False,False
+2026-08-17,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-08-18,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-19,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-08-20,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-21,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-08-22,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-23,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-24,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-25,Klinikum Muenster Nord,Nordrhein-Westfalen,32,24,False,False
+2026-08-26,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-08-27,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-08-28,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-29,Klinikum Muenster Nord,Nordrhein-Westfalen,32,18,False,False
+2026-08-30,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-31,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-01,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-09-02,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-09-03,Klinikum Muenster Nord,Nordrhein-Westfalen,32,24,False,False
+2026-09-04,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-09-05,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-09-06,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-09-07,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-09-08,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-09,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-10,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-11,Klinikum Muenster Nord,Nordrhein-Westfalen,32,26,False,False
+2026-09-12,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-09-13,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-09-14,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-09-15,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-09-16,Klinikum Muenster Nord,Nordrhein-Westfalen,32,24,False,False
+2026-09-17,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-09-18,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-09-19,Klinikum Muenster Nord,Nordrhein-Westfalen,32,18,False,False
+2026-09-20,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-09-21,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-09-22,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-09-23,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-09-24,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-25,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-26,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-09-27,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-28,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-09-29,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-09-30,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-10-01,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-10-02,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-03,Klinikum Muenster Nord,Nordrhein-Westfalen,32,17,False,False
+2026-10-04,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-10-05,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-06,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-10-07,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-08,Klinikum Muenster Nord,Nordrhein-Westfalen,32,25,False,False
+2026-10-09,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-10-10,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-10-11,Klinikum Muenster Nord,Nordrhein-Westfalen,32,17,False,False
+2026-10-12,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-13,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-10-14,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-15,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-16,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-17,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-10-18,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-10-19,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-20,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-21,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-10-22,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-10-23,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-10-24,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-25,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-10-26,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-27,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-28,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-10-29,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-10-30,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-10-31,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-11-01,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-11-02,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,True,True
+2026-11-03,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-11-04,Klinikum Muenster Nord,Nordrhein-Westfalen,32,19,False,False
+2026-11-05,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-11-06,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-11-07,Klinikum Muenster Nord,Nordrhein-Westfalen,32,20,False,False
+2026-11-08,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-11-09,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-11-10,Klinikum Muenster Nord,Nordrhein-Westfalen,32,23,False,False
+2026-11-11,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-11-12,Klinikum Muenster Nord,Nordrhein-Westfalen,32,21,False,False
+2026-11-13,Klinikum Muenster Nord,Nordrhein-Westfalen,32,22,False,False
+2026-08-16,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-08-17,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-08-18,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-08-19,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-08-20,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-08-21,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-08-22,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-08-23,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-08-24,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-08-25,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-08-26,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-08-27,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-08-28,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-08-29,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-08-30,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-08-31,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-01,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-02,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-03,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-04,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-05,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-09-06,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-07,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-08,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-09,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-10,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-09-11,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-09-12,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-13,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-09-14,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,True
+2026-09-15,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-16,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-17,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-18,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-19,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-20,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-21,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-22,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-23,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-24,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-09-25,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-09-26,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-09-27,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-09-28,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-09-29,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-09-30,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-01,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-02,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-03,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-04,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-05,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-10-06,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-07,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-08,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-09,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-10-10,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-11,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-12,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-10-13,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,True
+2026-10-14,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-10-15,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-16,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-17,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-10-18,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-10-19,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-10-20,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-21,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-10-22,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-23,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-10-24,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-25,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-26,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-10-27,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-28,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-10-29,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,True
+2026-10-30,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-10-31,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,12,False,False
+2026-11-01,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-11-02,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,True
+2026-11-03,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-11-04,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-11-05,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-11-06,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-11-07,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-11-08,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-11-09,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-11-10,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,15,False,False
+2026-11-11,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,16,False,False
+2026-11-12,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,14,False,False
+2026-11-13,St. Elisabeth Hospital Muenster,Nordrhein-Westfalen,18,13,False,False
+2026-08-16,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-08-17,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,19,False,False
+2026-08-18,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-08-19,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-08-20,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,17,False,False
+2026-08-21,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-08-22,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-08-23,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-08-24,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-08-25,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,19,False,False
+2026-08-26,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-08-27,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,17,False,False
+2026-08-28,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,11,False,False
+2026-08-29,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-08-30,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-08-31,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-09-01,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-09-02,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-09-03,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,18,False,False
+2026-09-04,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-09-05,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-09-06,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-09-07,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-09-08,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,18,False,False
+2026-09-09,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,17,False,False
+2026-09-10,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,19,False,False
+2026-09-11,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-09-12,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-09-13,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-09-14,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-09-15,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-09-16,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-09-17,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-09-18,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-09-19,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,20,False,False
+2026-09-20,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,18,False,False
+2026-09-21,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-09-22,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,True
+2026-09-23,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-09-24,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-09-25,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-09-26,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,17,False,False
+2026-09-27,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-09-28,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-09-29,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,10,False,False
+2026-09-30,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-10-01,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-02,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,True
+2026-10-03,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-10-04,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-05,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,11,False,False
+2026-10-06,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-10-07,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,21,False,False
+2026-10-08,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,True
+2026-10-09,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-10,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,18,False,False
+2026-10-11,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,21,False,False
+2026-10-12,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-13,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-10-14,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-10-15,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,20,False,False
+2026-10-16,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-17,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-18,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-10-19,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,True
+2026-10-20,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-10-21,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-10-22,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-10-23,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,True
+2026-10-24,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-10-25,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-10-26,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-10-27,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,17,False,False
+2026-10-28,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,18,False,False
+2026-10-29,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-10-30,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-10-31,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-11-01,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-11-02,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,14,False,False
+2026-11-03,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-11-04,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-11-05,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,21,False,False
+2026-11-06,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,19,False,False
+2026-11-07,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,15,False,False
+2026-11-08,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,12,False,False
+2026-11-09,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,13,False,False
+2026-11-10,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,18,False,False
+2026-11-11,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,16,False,False
+2026-11-12,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,17,False,False
+2026-11-13,Universitaetsklinikum Essen,Nordrhein-Westfalen,40,11,False,False
+2026-08-16,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-08-17,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-18,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-19,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-20,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-21,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-22,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-08-23,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,16,False,False
+2026-08-24,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-25,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-26,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-27,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-08-28,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,18,False,False
+2026-08-29,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-08-30,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-08-31,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,18,False,False
+2026-09-01,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-09-02,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-09-03,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-09-04,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-05,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-06,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-09-07,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-09-08,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-09-09,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-09-10,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-09-11,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-09-12,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-09-13,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-09-14,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,True
+2026-09-15,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-09-16,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-17,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-09-18,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-19,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-09-20,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-21,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-09-22,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,True
+2026-09-23,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,True,True
+2026-09-24,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-09-25,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,18,False,False
+2026-09-26,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-27,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,17,False,False
+2026-09-28,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-09-29,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-09-30,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-01,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-02,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-03,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-04,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,17,False,False
+2026-10-05,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-06,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-07,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-10-08,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-09,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,17,False,False
+2026-10-10,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-11,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-12,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-13,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-10-14,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,17,False,False
+2026-10-15,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-16,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-17,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,17,False,False
+2026-10-18,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-19,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-20,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-21,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-22,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-23,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-10-24,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-25,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-26,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-10-27,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-10-28,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-10-29,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-10-30,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-10-31,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-11-01,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,18,False,False
+2026-11-02,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-11-03,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-11-04,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-11-05,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-11-06,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-11-07,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,False,False
+2026-11-08,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,19,False,False
+2026-11-09,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,22,False,False
+2026-11-10,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-11-11,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-11-12,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,21,False,False
+2026-11-13,Ev. Krankenhaus Essen-Werden,Nordrhein-Westfalen,22,20,True,True
+2026-08-16,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-17,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-08-18,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-08-19,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-08-20,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-08-21,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-22,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-23,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-24,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-08-25,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-08-26,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-08-27,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-28,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-29,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-30,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-31,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-01,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-02,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-03,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-04,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-05,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-06,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-07,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-08,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-09,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-10,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-11,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-12,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-13,Kreiskrankenhaus Leisnig,Sachsen,12,4,False,False
+2026-09-14,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-09-15,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-09-16,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-09-17,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-18,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-19,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-20,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-21,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-22,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-23,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-24,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-09-25,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-26,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-09-27,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-09-28,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-09-29,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-09-30,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-01,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-02,Kreiskrankenhaus Leisnig,Sachsen,12,8,False,False
+2026-10-03,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-10-04,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-05,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-06,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-07,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-08,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-10-09,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-10,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-10-11,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-10-12,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-13,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-14,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-15,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-16,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-17,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-18,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-19,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-20,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-10-21,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-22,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-23,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-24,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,True
+2026-10-25,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-26,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-10-27,Kreiskrankenhaus Leisnig,Sachsen,12,8,False,False
+2026-10-28,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,True
+2026-10-29,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-30,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-10-31,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-11-01,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-11-02,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-11-03,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-11-04,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-11-05,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-11-06,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-11-07,Kreiskrankenhaus Leisnig,Sachsen,12,4,False,False
+2026-11-08,Kreiskrankenhaus Leisnig,Sachsen,12,5,False,False
+2026-11-09,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-11-10,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-11-11,Kreiskrankenhaus Leisnig,Sachsen,12,8,False,False
+2026-11-12,Kreiskrankenhaus Leisnig,Sachsen,12,7,False,False
+2026-11-13,Kreiskrankenhaus Leisnig,Sachsen,12,6,False,False
+2026-08-16,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-08-17,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-08-18,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-08-19,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-08-20,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-08-21,Klinikum Chemnitz,Sachsen,35,34,False,False
+2026-08-22,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-08-23,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-08-24,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-08-25,Klinikum Chemnitz,Sachsen,35,28,False,True
+2026-08-26,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-08-27,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-08-28,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-08-29,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-08-30,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-08-31,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-09-01,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-09-02,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-09-03,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-09-04,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-09-05,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-09-06,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-09-07,Klinikum Chemnitz,Sachsen,35,24,False,False
+2026-09-08,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-09-09,Klinikum Chemnitz,Sachsen,35,24,False,False
+2026-09-10,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-09-11,Klinikum Chemnitz,Sachsen,35,31,False,False
+2026-09-12,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-09-13,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-09-14,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-09-15,Klinikum Chemnitz,Sachsen,35,22,False,False
+2026-09-16,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-09-17,Klinikum Chemnitz,Sachsen,35,33,False,False
+2026-09-18,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-09-19,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-09-20,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-09-21,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-09-22,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-09-23,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-09-24,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-09-25,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-09-26,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-09-27,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-09-28,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-09-29,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-09-30,Klinikum Chemnitz,Sachsen,35,32,False,False
+2026-10-01,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-02,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-03,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-04,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-05,Klinikum Chemnitz,Sachsen,35,31,False,False
+2026-10-06,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-10-07,Klinikum Chemnitz,Sachsen,35,31,False,False
+2026-10-08,Klinikum Chemnitz,Sachsen,35,28,False,True
+2026-10-09,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-10,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-10-11,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-12,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-13,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-10-14,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-15,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-10-16,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-17,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-10-18,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-19,Klinikum Chemnitz,Sachsen,35,23,False,False
+2026-10-20,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-21,Klinikum Chemnitz,Sachsen,35,25,False,False
+2026-10-22,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-23,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-24,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-25,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-26,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-10-27,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-10-28,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-10-29,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-10-30,Klinikum Chemnitz,Sachsen,35,30,False,False
+2026-10-31,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-11-01,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-11-02,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-11-03,Klinikum Chemnitz,Sachsen,35,32,False,False
+2026-11-04,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-11-05,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-11-06,Klinikum Chemnitz,Sachsen,35,27,False,False
+2026-11-07,Klinikum Chemnitz,Sachsen,35,24,False,False
+2026-11-08,Klinikum Chemnitz,Sachsen,35,24,False,False
+2026-11-09,Klinikum Chemnitz,Sachsen,35,26,False,False
+2026-11-10,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-11-11,Klinikum Chemnitz,Sachsen,35,29,False,False
+2026-11-12,Klinikum Chemnitz,Sachsen,35,28,False,False
+2026-11-13,Klinikum Chemnitz,Sachsen,35,28,False,True
+2026-08-16,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-08-17,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-08-18,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-08-19,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-08-20,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-08-21,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-08-22,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-08-23,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-08-24,Diakonissenkrankenhaus Chemnitz,Sachsen,20,18,False,False
+2026-08-25,Diakonissenkrankenhaus Chemnitz,Sachsen,20,18,False,False
+2026-08-26,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-08-27,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-08-28,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-08-29,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-08-30,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-08-31,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-01,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-02,Diakonissenkrankenhaus Chemnitz,Sachsen,20,19,False,False
+2026-09-03,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-04,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-05,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-09-06,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-07,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-08,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-09,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,True
+2026-09-10,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-09-11,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-12,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-13,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-14,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-15,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-16,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-09-17,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-18,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-09-19,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-20,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-09-21,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-09-22,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,True,True
+2026-09-23,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-24,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-25,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,True
+2026-09-26,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-09-27,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-09-28,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-09-29,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,True
+2026-09-30,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-10-01,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-10-02,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-10-03,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-04,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-05,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-06,Diakonissenkrankenhaus Chemnitz,Sachsen,20,18,False,False
+2026-10-07,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-08,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-10-09,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-10-10,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-10-11,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-12,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-13,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-14,Diakonissenkrankenhaus Chemnitz,Sachsen,20,18,False,False
+2026-10-15,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-10-16,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-10-17,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-10-18,Diakonissenkrankenhaus Chemnitz,Sachsen,20,19,False,False
+2026-10-19,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-20,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-10-21,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-22,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-23,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-24,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-10-25,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-10-26,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-10-27,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-10-28,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-10-29,Diakonissenkrankenhaus Chemnitz,Sachsen,20,19,False,False
+2026-10-30,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,True,True
+2026-10-31,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-11-01,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-11-02,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-11-03,Diakonissenkrankenhaus Chemnitz,Sachsen,20,14,False,False
+2026-11-04,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-11-05,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,False
+2026-11-06,Diakonissenkrankenhaus Chemnitz,Sachsen,20,19,False,False
+2026-11-07,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-11-08,Diakonissenkrankenhaus Chemnitz,Sachsen,20,16,False,True
+2026-11-09,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-11-10,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-11-11,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-11-12,Diakonissenkrankenhaus Chemnitz,Sachsen,20,15,False,False
+2026-11-13,Diakonissenkrankenhaus Chemnitz,Sachsen,20,17,False,False
+2026-08-16,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-08-17,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-08-18,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-08-19,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-08-20,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-08-21,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-08-22,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-08-23,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-08-24,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-08-25,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-08-26,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-08-27,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-08-28,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-08-29,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-08-30,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-08-31,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-09-01,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-09-02,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-09-03,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-09-04,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-09-05,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-09-06,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-07,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-09-08,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-09-09,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-09-10,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-09-11,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-09-12,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-13,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-09-14,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-09-15,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-09-16,Klinikum Dortmund,Nordrhein-Westfalen,28,23,False,False
+2026-09-17,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-09-18,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-09-19,Klinikum Dortmund,Nordrhein-Westfalen,28,22,False,False
+2026-09-20,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,True
+2026-09-21,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-22,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-09-23,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-09-24,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-09-25,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-26,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-27,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-09-28,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-29,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-09-30,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-01,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-02,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-03,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-10-04,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-05,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-10-06,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-07,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-08,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-10-09,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-10-10,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-11,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-10-12,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-10-13,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-14,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-10-15,Klinikum Dortmund,Nordrhein-Westfalen,28,23,False,False
+2026-10-16,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-10-17,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-10-18,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-19,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-20,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-21,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-10-22,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-10-23,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-24,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-10-25,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-10-26,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-27,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-28,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-10-29,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-30,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-10-31,Klinikum Dortmund,Nordrhein-Westfalen,28,23,False,False
+2026-11-01,Klinikum Dortmund,Nordrhein-Westfalen,28,22,False,False
+2026-11-02,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-11-03,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-11-04,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-11-05,Klinikum Dortmund,Nordrhein-Westfalen,28,24,False,False
+2026-11-06,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-11-07,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-11-08,Klinikum Dortmund,Nordrhein-Westfalen,28,26,True,True
+2026-11-09,Klinikum Dortmund,Nordrhein-Westfalen,28,28,False,False
+2026-11-10,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-11-11,Klinikum Dortmund,Nordrhein-Westfalen,28,25,False,False
+2026-11-12,Klinikum Dortmund,Nordrhein-Westfalen,28,27,False,False
+2026-11-13,Klinikum Dortmund,Nordrhein-Westfalen,28,26,False,False
+2026-08-16,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,True
+2026-08-17,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-18,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-19,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-20,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-08-21,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-22,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-08-23,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-08-24,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-25,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-08-26,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-08-27,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-08-28,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-08-29,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-30,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-31,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-09-01,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-09-02,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-09-03,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-04,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-05,Marienhospital Bochum,Nordrhein-Westfalen,24,7,False,False
+2026-09-06,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-07,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-08,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-09-09,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-10,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-11,Marienhospital Bochum,Nordrhein-Westfalen,24,13,False,False
+2026-09-12,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-13,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-09-14,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-15,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-16,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-17,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-09-18,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-19,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-09-20,Marienhospital Bochum,Nordrhein-Westfalen,24,7,False,False
+2026-09-21,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-09-22,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-09-23,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-09-24,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-25,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-09-26,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-27,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-28,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-09-29,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-09-30,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-01,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-10-02,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-10-03,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-10-04,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-10-05,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-06,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-10-07,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-08,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-09,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-10,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-10-11,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-12,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-13,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-14,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-10-15,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-16,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-17,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-18,Marienhospital Bochum,Nordrhein-Westfalen,24,7,False,False
+2026-10-19,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-20,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-10-21,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-10-22,Marienhospital Bochum,Nordrhein-Westfalen,24,7,False,False
+2026-10-23,Marienhospital Bochum,Nordrhein-Westfalen,24,7,False,False
+2026-10-24,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-25,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-10-26,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-10-27,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-10-28,Marienhospital Bochum,Nordrhein-Westfalen,24,6,False,False
+2026-10-29,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-10-30,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-10-31,Marienhospital Bochum,Nordrhein-Westfalen,24,7,False,False
+2026-11-01,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-11-02,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-11-03,Marienhospital Bochum,Nordrhein-Westfalen,24,9,False,False
+2026-11-04,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-11-05,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-11-06,Marienhospital Bochum,Nordrhein-Westfalen,24,13,False,False
+2026-11-07,Marienhospital Bochum,Nordrhein-Westfalen,24,8,False,False
+2026-11-08,Marienhospital Bochum,Nordrhein-Westfalen,24,12,False,False
+2026-11-09,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-11-10,Marienhospital Bochum,Nordrhein-Westfalen,24,13,False,False
+2026-11-11,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-11-12,Marienhospital Bochum,Nordrhein-Westfalen,24,10,False,False
+2026-11-13,Marienhospital Bochum,Nordrhein-Westfalen,24,11,False,False
+2026-08-16,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-08-17,Krankenhaus Freiberg,Sachsen,15,14,False,True
+2026-08-18,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-08-19,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-08-20,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-08-21,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-08-22,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-08-23,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-08-24,Krankenhaus Freiberg,Sachsen,15,12,False,False
+2026-08-25,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-08-26,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-08-27,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-08-28,Krankenhaus Freiberg,Sachsen,15,14,False,True
+2026-08-29,Krankenhaus Freiberg,Sachsen,15,14,False,True
+2026-08-30,Krankenhaus Freiberg,Sachsen,15,14,False,True
+2026-08-31,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-09-01,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-02,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-03,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-04,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-05,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-06,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-07,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-09-08,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-09,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-10,Krankenhaus Freiberg,Sachsen,15,12,False,False
+2026-09-11,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-12,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-13,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-14,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-15,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-16,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-09-17,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-18,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-19,Krankenhaus Freiberg,Sachsen,15,12,False,False
+2026-09-20,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-21,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-09-22,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-23,Krankenhaus Freiberg,Sachsen,15,12,False,False
+2026-09-24,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-25,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-26,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-27,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-09-28,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-29,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-09-30,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-01,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-02,Krankenhaus Freiberg,Sachsen,15,14,False,True
+2026-10-03,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-04,Krankenhaus Freiberg,Sachsen,15,12,False,False
+2026-10-05,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-06,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-07,Krankenhaus Freiberg,Sachsen,15,14,True,True
+2026-10-08,Krankenhaus Freiberg,Sachsen,15,14,True,True
+2026-10-09,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-10,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-11,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-10-12,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-10-13,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-14,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-10-15,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-16,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-17,Krankenhaus Freiberg,Sachsen,15,14,True,True
+2026-10-18,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-10-19,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-20,Krankenhaus Freiberg,Sachsen,15,14,False,True
+2026-10-21,Krankenhaus Freiberg,Sachsen,15,14,True,True
+2026-10-22,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-23,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-10-24,Krankenhaus Freiberg,Sachsen,15,12,False,False
+2026-10-25,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-10-26,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-10-27,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-28,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-29,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-10-30,Krankenhaus Freiberg,Sachsen,15,14,True,True
+2026-10-31,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-11-01,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-11-02,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-11-03,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-11-04,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-11-05,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-11-06,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-11-07,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-11-08,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-11-09,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-11-10,Krankenhaus Freiberg,Sachsen,15,13,False,False
+2026-11-11,Krankenhaus Freiberg,Sachsen,15,14,False,False
+2026-11-12,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-11-13,Krankenhaus Freiberg,Sachsen,15,15,False,False
+2026-08-16,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-08-17,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-08-18,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,True
+2026-08-19,St. Vincentius Koeln,Nordrhein-Westfalen,30,16,False,False
+2026-08-20,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-08-21,St. Vincentius Koeln,Nordrhein-Westfalen,30,14,False,False
+2026-08-22,St. Vincentius Koeln,Nordrhein-Westfalen,30,16,False,False
+2026-08-23,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-08-24,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-08-25,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-08-26,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-08-27,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-08-28,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-08-29,St. Vincentius Koeln,Nordrhein-Westfalen,30,24,False,False
+2026-08-30,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-08-31,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-09-01,St. Vincentius Koeln,Nordrhein-Westfalen,30,24,False,False
+2026-09-02,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-03,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-09-04,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-05,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-09-06,St. Vincentius Koeln,Nordrhein-Westfalen,30,17,False,False
+2026-09-07,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-08,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-09-09,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-09-10,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-11,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-12,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-09-13,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-09-14,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-09-15,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-09-16,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-09-17,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-09-18,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-09-19,St. Vincentius Koeln,Nordrhein-Westfalen,30,17,False,False
+2026-09-20,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-09-21,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-09-22,St. Vincentius Koeln,Nordrhein-Westfalen,30,18,False,False
+2026-09-23,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-24,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-09-25,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-09-26,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-09-27,St. Vincentius Koeln,Nordrhein-Westfalen,30,17,False,False
+2026-09-28,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-09-29,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-09-30,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-10-01,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-10-02,St. Vincentius Koeln,Nordrhein-Westfalen,30,24,False,False
+2026-10-03,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-10-04,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-05,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-10-06,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-07,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-08,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-10-09,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-10-10,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-10-11,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-10-12,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-10-13,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-10-14,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-15,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,True,True
+2026-10-16,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-17,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-10-18,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-10-19,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-20,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-21,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,True,True
+2026-10-22,St. Vincentius Koeln,Nordrhein-Westfalen,30,24,False,False
+2026-10-23,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-10-24,St. Vincentius Koeln,Nordrhein-Westfalen,30,17,False,False
+2026-10-25,St. Vincentius Koeln,Nordrhein-Westfalen,30,18,False,False
+2026-10-26,St. Vincentius Koeln,Nordrhein-Westfalen,30,19,False,False
+2026-10-27,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-10-28,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,True
+2026-10-29,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-10-30,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-10-31,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-11-01,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-11-02,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-11-03,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-11-04,St. Vincentius Koeln,Nordrhein-Westfalen,30,17,False,False
+2026-11-05,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-11-06,St. Vincentius Koeln,Nordrhein-Westfalen,30,17,False,False
+2026-11-07,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-11-08,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-11-09,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-11-10,St. Vincentius Koeln,Nordrhein-Westfalen,30,23,False,False
+2026-11-11,St. Vincentius Koeln,Nordrhein-Westfalen,30,21,False,False
+2026-11-12,St. Vincentius Koeln,Nordrhein-Westfalen,30,20,False,False
+2026-11-13,St. Vincentius Koeln,Nordrhein-Westfalen,30,22,False,False
+2026-08-16,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-08-17,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-08-18,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-08-19,Uniklinikum Leipzig,Sachsen,38,24,False,False
+2026-08-20,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-08-21,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-08-22,Uniklinikum Leipzig,Sachsen,38,18,False,False
+2026-08-23,Uniklinikum Leipzig,Sachsen,38,18,False,False
+2026-08-24,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-08-25,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-08-26,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-08-27,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-08-28,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-08-29,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-08-30,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-08-31,Uniklinikum Leipzig,Sachsen,38,21,True,True
+2026-09-01,Uniklinikum Leipzig,Sachsen,38,18,False,False
+2026-09-02,Uniklinikum Leipzig,Sachsen,38,25,False,False
+2026-09-03,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-09-04,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-09-05,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-09-06,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-09-07,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-09-08,Uniklinikum Leipzig,Sachsen,38,25,False,False
+2026-09-09,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-09-10,Uniklinikum Leipzig,Sachsen,38,24,False,False
+2026-09-11,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-09-12,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-09-13,Uniklinikum Leipzig,Sachsen,38,17,False,False
+2026-09-14,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-09-15,Uniklinikum Leipzig,Sachsen,38,25,False,False
+2026-09-16,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-09-17,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-09-18,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-09-19,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-09-20,Uniklinikum Leipzig,Sachsen,38,16,False,False
+2026-09-21,Uniklinikum Leipzig,Sachsen,38,21,False,True
+2026-09-22,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-09-23,Uniklinikum Leipzig,Sachsen,38,25,False,False
+2026-09-24,Uniklinikum Leipzig,Sachsen,38,28,False,False
+2026-09-25,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-09-26,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-09-27,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-09-28,Uniklinikum Leipzig,Sachsen,38,21,False,True
+2026-09-29,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-09-30,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-10-01,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-10-02,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-10-03,Uniklinikum Leipzig,Sachsen,38,17,False,False
+2026-10-04,Uniklinikum Leipzig,Sachsen,38,16,False,False
+2026-10-05,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-06,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-10-07,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-10-08,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-10-09,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-10,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-10-11,Uniklinikum Leipzig,Sachsen,38,18,False,False
+2026-10-12,Uniklinikum Leipzig,Sachsen,38,24,False,False
+2026-10-13,Uniklinikum Leipzig,Sachsen,38,25,False,False
+2026-10-14,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-15,Uniklinikum Leipzig,Sachsen,38,21,False,True
+2026-10-16,Uniklinikum Leipzig,Sachsen,38,24,False,False
+2026-10-17,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-10-18,Uniklinikum Leipzig,Sachsen,38,21,True,True
+2026-10-19,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-20,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-21,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-10-22,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-23,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-10-24,Uniklinikum Leipzig,Sachsen,38,18,False,False
+2026-10-25,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-10-26,Uniklinikum Leipzig,Sachsen,38,24,False,False
+2026-10-27,Uniklinikum Leipzig,Sachsen,38,25,False,False
+2026-10-28,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-10-29,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-10-30,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-10-31,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-11-01,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-11-02,Uniklinikum Leipzig,Sachsen,38,24,False,False
+2026-11-03,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-11-04,Uniklinikum Leipzig,Sachsen,38,22,False,False
+2026-11-05,Uniklinikum Leipzig,Sachsen,38,19,False,False
+2026-11-06,Uniklinikum Leipzig,Sachsen,38,23,False,False
+2026-11-07,Uniklinikum Leipzig,Sachsen,38,20,False,False
+2026-11-08,Uniklinikum Leipzig,Sachsen,38,18,False,False
+2026-11-09,Uniklinikum Leipzig,Sachsen,38,21,True,True
+2026-11-10,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-11-11,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-11-12,Uniklinikum Leipzig,Sachsen,38,26,False,False
+2026-11-13,Uniklinikum Leipzig,Sachsen,38,21,False,False
+2026-08-16,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-08-17,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-08-18,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-08-19,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-08-20,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-08-21,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-08-22,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,True
+2026-08-23,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-08-24,Klinikum Dresden Friedrichstadt,Sachsen,33,31,False,False
+2026-08-25,Klinikum Dresden Friedrichstadt,Sachsen,33,23,False,False
+2026-08-26,Klinikum Dresden Friedrichstadt,Sachsen,33,24,False,False
+2026-08-27,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-08-28,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-08-29,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-08-30,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-08-31,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-09-01,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-09-02,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-09-03,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-09-04,Klinikum Dresden Friedrichstadt,Sachsen,33,29,False,False
+2026-09-05,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-09-06,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-09-07,Klinikum Dresden Friedrichstadt,Sachsen,33,29,False,False
+2026-09-08,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-09-09,Klinikum Dresden Friedrichstadt,Sachsen,33,27,True,True
+2026-09-10,Klinikum Dresden Friedrichstadt,Sachsen,33,31,False,False
+2026-09-11,Klinikum Dresden Friedrichstadt,Sachsen,33,23,False,False
+2026-09-12,Klinikum Dresden Friedrichstadt,Sachsen,33,23,False,False
+2026-09-13,Klinikum Dresden Friedrichstadt,Sachsen,33,24,False,False
+2026-09-14,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-09-15,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-09-16,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-09-17,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-09-18,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-09-19,Klinikum Dresden Friedrichstadt,Sachsen,33,31,False,False
+2026-09-20,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-09-21,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-09-22,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-09-23,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-09-24,Klinikum Dresden Friedrichstadt,Sachsen,33,24,False,False
+2026-09-25,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-09-26,Klinikum Dresden Friedrichstadt,Sachsen,33,24,False,False
+2026-09-27,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-09-28,Klinikum Dresden Friedrichstadt,Sachsen,33,24,False,False
+2026-09-29,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-09-30,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-10-01,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-10-02,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-10-03,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,True
+2026-10-04,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-10-05,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-10-06,Klinikum Dresden Friedrichstadt,Sachsen,33,29,False,False
+2026-10-07,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-10-08,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,True
+2026-10-09,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-10-10,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-10-11,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-10-12,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,True
+2026-10-13,Klinikum Dresden Friedrichstadt,Sachsen,33,31,False,False
+2026-10-14,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-10-15,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-10-16,Klinikum Dresden Friedrichstadt,Sachsen,33,29,False,False
+2026-10-17,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-10-18,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-10-19,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-10-20,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-10-21,Klinikum Dresden Friedrichstadt,Sachsen,33,31,False,False
+2026-10-22,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-10-23,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-10-24,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-10-25,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-10-26,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-10-27,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-10-28,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-10-29,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-10-30,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-10-31,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-11-01,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-11-02,Klinikum Dresden Friedrichstadt,Sachsen,33,29,False,False
+2026-11-03,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-11-04,Klinikum Dresden Friedrichstadt,Sachsen,33,27,False,False
+2026-11-05,Klinikum Dresden Friedrichstadt,Sachsen,33,26,False,False
+2026-11-06,Klinikum Dresden Friedrichstadt,Sachsen,33,22,False,False
+2026-11-07,Klinikum Dresden Friedrichstadt,Sachsen,33,23,False,False
+2026-11-08,Klinikum Dresden Friedrichstadt,Sachsen,33,22,False,False
+2026-11-09,Klinikum Dresden Friedrichstadt,Sachsen,33,23,False,False
+2026-11-10,Klinikum Dresden Friedrichstadt,Sachsen,33,25,False,False
+2026-11-11,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-11-12,Klinikum Dresden Friedrichstadt,Sachsen,33,28,False,False
+2026-11-13,Klinikum Dresden Friedrichstadt,Sachsen,33,30,False,False
+2026-08-16,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-08-17,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-08-18,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-08-19,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-08-20,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-08-21,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-08-22,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-08-23,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-08-24,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-08-25,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-08-26,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-08-27,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-08-28,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-08-29,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-08-30,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-08-31,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-01,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,16,False,False
+2026-09-02,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-03,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-04,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-05,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-06,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,11,False,False
+2026-09-07,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-08,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-09-09,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-10,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-11,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-12,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-13,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-09-14,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-15,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-16,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-17,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,16,False,False
+2026-09-18,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-19,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-20,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-21,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-22,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-23,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-24,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-25,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-09-26,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-27,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-09-28,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-29,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-09-30,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-10-01,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-02,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,True
+2026-10-03,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,True,True
+2026-10-04,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-10-05,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-10-06,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,16,False,False
+2026-10-07,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-08,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-09,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-10-10,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,11,False,False
+2026-10-11,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,11,False,False
+2026-10-12,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-10-13,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-14,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-15,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-10-16,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-17,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-10-18,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-19,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-20,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-21,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-22,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-10-23,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-24,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-25,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-10-26,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-10-27,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-10-28,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-10-29,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-10-30,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-10-31,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-11-01,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-11-02,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-11-03,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-11-04,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,True
+2026-11-05,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-11-06,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,11,False,False
+2026-11-07,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-11-08,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,12,False,False
+2026-11-09,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,True
+2026-11-10,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,13,False,False
+2026-11-11,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,14,False,False
+2026-11-12,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,15,False,False
+2026-11-13,Herz-Jesu-Krankenhaus Muenster,Nordrhein-Westfalen,16,16,False,False
+2026-08-16,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-08-17,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-08-18,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-08-19,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-08-20,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-08-21,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-08-22,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-08-23,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,20,False,False
+2026-08-24,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-08-25,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-08-26,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-08-27,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-08-28,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-08-29,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-08-30,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-08-31,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,26,False,False
+2026-09-01,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-02,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-03,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,True,True
+2026-09-04,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-05,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-09-06,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-07,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-08,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-09,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-09-10,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,True,True
+2026-09-11,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-12,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-09-13,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-14,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-15,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-16,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-17,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-09-18,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-19,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-09-20,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-21,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-22,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-23,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-24,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-25,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-26,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-09-27,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,19,False,False
+2026-09-28,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-09-29,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-09-30,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-01,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-10-02,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,26,False,False
+2026-10-03,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-04,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-05,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-10-06,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-10-07,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-08,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-10-09,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-10-10,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-10-11,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-10-12,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-13,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-14,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,26,False,False
+2026-10-15,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-10-16,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,19,False,False
+2026-10-17,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-10-18,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-10-19,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-10-20,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-21,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-10-22,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-10-23,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-24,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-10-25,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-10-26,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,26,False,False
+2026-10-27,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-10-28,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-10-29,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-10-30,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,26,False,False
+2026-10-31,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-11-01,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,22,False,False
+2026-11-02,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-11-03,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-11-04,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-11-05,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-11-06,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-11-07,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-11-08,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,21,False,False
+2026-11-09,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,25,False,False
+2026-11-10,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-11-11,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
+2026-11-12,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,23,False,False
+2026-11-13,Knappschaftskrankenhaus Essen,Nordrhein-Westfalen,26,24,False,False
